@@ -1,0 +1,14 @@
+{
+  "name": "command-pattern-exam",
+  "version": "1.0.0",
+  "description": "Behavioral pattern Command in TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node examples/index.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.1"
+  }
+}
